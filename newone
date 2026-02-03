@@ -1,7 +1,7 @@
 echo "# Now-is-test-2" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "first com
 git b
 
 git push -u origin main
