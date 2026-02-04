@@ -1,3 +1,2 @@
 echo "# Now-is-test-2" >> README.md
 git init
-git add README.md
