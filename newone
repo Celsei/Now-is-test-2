@@ -1,4 +1,2 @@
 echo "# Now-is-test-2" >> README.md
-git initecho "# Now-is-test-2" >> README.md
-echo "# Now-is-test-2" >> README.md
-
+git 
